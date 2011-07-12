@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.markdown",
     "Rakefile",
     "VERSION",
+    "ie_snowman.gemspec",
     "lib/ie_snowman.rb",
     "test/helper.rb",
     "test/test_ie_snowman.rb"
