@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "ie_snowman"
   gem.homepage = "http://github.com/danbys/ie_snowman"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Monkey pathes Rails to apply avoid the snowman fix for non-IE browsers.}
+  gem.description = %Q{For SEO purposes the snowman fix is only applied for the IE browser. Firefox, Safari, Opera or any other client the snowman fix unnecessary.}
   gem.email = "dan.bystrom@gmail.com"
   gem.authors = ["Dan Byström"]
   # dependencies defined in Gemfile
