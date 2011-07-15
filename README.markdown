@@ -12,9 +12,8 @@ Supported versions are Rails 3 or later, tested versions are 3.0.9 and 3.1.0.rc4
 
 - Add `ie_snowman` to your gemfile
 
-
-  &#35; Gemfile
-  gem "ie_snowman"
+    &#35; Gemfile
+    gem "ie_snowman"
 
 ## Copyright
 
